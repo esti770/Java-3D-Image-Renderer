@@ -1,8 +1,3 @@
-/*
- Efrar Chitrit 207955287
- Esty Namirovsky 314815507
-*/
-
 package Test;
 
 import static org.junit.Assert.*;
